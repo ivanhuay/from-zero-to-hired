@@ -19,6 +19,15 @@ Welcome to my blog series documenting my journey from unemployment to securing a
    - Improving existing projects
    - Developing new showcase items
    - Beginning the interview process
+3. [Chapter 4: Crafting an AI-Powered Dev Blog Generator](days/chapter-4.md)
+
+- Updated nejo-json-viewer with new Storybook build
+- Conceptualized and began development of Devblog-AI
+- Created a functional UI using v0.dev and ui.shadcn.com
+- Developed backend with ChatGPT and Claude integration using Hiroki
+- Set up a monorepo structure with Docker for easy deployment
+- Successfully integrated frontend and backend components
+
 
 ## About This Project
 
